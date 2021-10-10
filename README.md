@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muritz11
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning software development
 - 📫 You can reach me on mauricechisom275@gmail.com
 
 <!---
