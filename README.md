@@ -1,15 +1,16 @@
 
 <h2>Hey👋, I'm Abuguja Maurice</h2>
-<p>I am a Frontend Web Developer</p>
+<p>I am a Web Developer</p>
 
 
 
 <h2>About Me</h2>
 
 <ul>
+  <li>👀 I'm interested software and web development. </li> 
   <li>✨ Turning ideas into real life products. </li> 
   <li>👨‍💻 I work with <strong>Javascript, Typescript, ReactJs & NextJs</strong>.</li>
-  <li>🔭 I’m currently learning <strong>Software Development</strong>. </li>
+  <li>🌱 I’m currently learning <strong>Software Development, Blockchain & React Native</strong>. </li>
   <li>🤝 I am open to collaborations and jobs on projects/ideas</li>
 </ul>
 
@@ -43,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
+<a href="https://cdnlogo.com/logo/laravel_40129.html"><img src="https://www.cdnlogo.com/logos/l/57/laravel.svg" width="45" height="45"></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
         
   
