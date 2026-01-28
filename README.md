@@ -35,8 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind css" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/chakraui/chakraui-original.svg" alt="Chakra UI" height="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/alpinejs/alpinejs-original.svg" alt="Alpine Js" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ait="React" height="40" width="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40"/>
@@ -46,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <a href="https://cdnlogo.com/logo/laravel_40129.html"><img src="https://www.cdnlogo.com/logos/l/57/laravel.svg" alt="laravel" width="40" height="40"></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/livewire/livewire-original.svg" alt="livewire" width="40" height="40" />
 </p>
 
 
